@@ -14,7 +14,7 @@ int main()
     c=a^b;
     printf("%d\n",c);
 
-
+printf("%d\n",c);
 
     return 0;
 }
